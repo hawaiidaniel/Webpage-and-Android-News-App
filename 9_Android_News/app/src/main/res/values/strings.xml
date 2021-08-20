@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_headlines">Headlines</string>
+    <string name="title_trending">Trending</string>
+    <string name="title_bookmarks">Bookmarks</string>
+    <string name="search">Search</string>
+    <string name="tab_World">World</string>
+    <string name="tab_Business">Business</string>
+    <string name="tab_Politics">Politics</string>
+    <string name="tab_Sports">Sports</string>
+    <string name="tab_Technology">Technology</string>
+    <string name="tab_Science">Science</string>
+    <string name="no_bookmark">No Bookmarked Articles</string>
+    <string name="backend_basic_url">https://csci571hw9-276111.ue.r.appspot.com/</string>
+    <string name="search_title">Search Results for </string>
+</resources>

@@ -1,0 +1,36 @@
+.myBar {
+  background-image: linear-gradient(90deg, #212d52 0%, #3853a6 100%);
+  font-size: large;
+  color: #ffffff;
+}
+
+
+.myNavLink {
+  color: #ffffff;
+  font-size: medium;
+}
+
+.react-switch {
+  vertical-align: middle;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.bmIcon {
+  text-decoration: none;
+}
+
+.card {
+  box-shadow: 0 10px 30px rgba(33,33,33,.1);
+}
+
+.myAsyncSelect {
+  width: 12em;
+  color: black;
+}
+
+.commentbox {
+  height: 300px !important;
+}
+
+
